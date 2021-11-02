@@ -18,7 +18,6 @@
   <a href="https://git-scm.com/" rel="nofollow"> <img alt="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" width="40" height="40"> </a>
   <a href="https://github.com/" rel="nofollow"> <img alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" style="background: white;border-radius: 5px;"> </a>
   <a href="https://getbootstrap.com/" rel="nofollow"> <img alt="bootstrap" src="https://i.stack.imgur.com/C9301.png" width="40" height="40"> </a>
-
   <a href="https://tailwindcss.com/" rel="nofollow"> <img alt="tailwind" src="https://ph-files.imgix.net/8b29079c-7d21-4bfc-8a55-801ddc6cb354.png?auto=format" width="40" height="40"> </a>
   <a href="https://sass-lang.com/" rel="nofollow"> <img alt="sass" src="https://natqe.gallerycdn.vsassets.io/extensions/natqe/scss-generator/1.2.9/1550339585248/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40"> </a>
   <a href="https://jquery.com/" rel="nofollow"> <img alt="jQuery" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" width="40" height="40" style="background: white"> </a>
