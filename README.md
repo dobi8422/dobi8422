@@ -1,6 +1,6 @@
-## 👺
+## 🎃
 
-化工系畢業，22歲投入網頁前端，平時喜歡自我挑戰，學習各個方面。
+2021.7開始學習網頁前端，平時喜歡自我挑戰，學習網頁程式相關技術。
 
 ## 目前掌握技術
 
@@ -31,7 +31,7 @@ git, github
 
 ## 未來學習技術
 
-svelte, PHP, node.js ......
+svelte, PHP, native......
 
 <!-- ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)  -->
 
