@@ -7,8 +7,8 @@ Blog: https://dobi8422.github.io/
 ---
 ## 主要作品
 
-* 聊天室: https://dobi8422.github.io/chat-app/
-* 全球疫情地圖: https://dobi8422.github.io/covid-19-map-app/#/
+* 聊天室: https://github.com/dobi8422/chat-app
+* 全球疫情地圖: https://github.com/dobi8422/covid-19-map-app
 
 ---
 ## 目前掌握技術
