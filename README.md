@@ -2,14 +2,7 @@
 
 2021.7 開始學習網頁前端，平時喜歡自我挑戰，學習網頁程式相關技術。
 
-Blog: https://dobi8422.github.io/dosss/
-
----
-## 主要作品
-
-* 聊天室: https://github.com/dobi8422/chat-app
-* 全球疫情地圖: https://github.com/dobi8422/covid-19-map-app
-
+Blog & my works: https://dobi8422.github.io/dosss/
 ---
 ## 目前掌握技術
 
@@ -67,11 +60,6 @@ D3, jQuery
 Vue, React, vite
 webpack, npm, eslint
 git, github
-
----
-## 未來學習技術
-
-React, SEO, three, svelte, PHP, native......
 
 <!-- ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=madneal&show_icons=true&theme=radical)  -->
 
