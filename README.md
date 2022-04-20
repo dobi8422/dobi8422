@@ -2,7 +2,7 @@
 
 2021.7 開始學習網頁前端，平時喜歡自我挑戰，學習網頁程式相關技術。
 
-Blog & my works: https://dobi8422.github.io/dosss/
+[Blog & my works](https://dobi8422.github.io/dosss/)
 ---
 ## 目前掌握技術
 
